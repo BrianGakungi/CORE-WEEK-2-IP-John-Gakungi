@@ -1,4 +1,13 @@
 # CORE-WEEK-2-IP-John-Gakungi
+# {John Njagi Financial Inclusion Analysis}
+#### {Detailed analysis of demographic factors that influence the possession of bank accounts in East Africa}, {18th March, 2022}
+#### By **{John Njagi}**
+## Description
+{Data set is a summary of surveys conducted in Kenya, Uganda, Rwanda and Tanzania. It contains several demographic factors that influence the ability of individuals to possess bank accounts. In a bid to understand the state of financial inclusion we are to study the effects of these demographic factors on the state of financial inclusion.}
+## {I have used google colab notebook and pandas to carry out my analysis}
+## Support and contact details
+{Upon encountering any issues I can be reached on njagij10@gmail.com}
+### License
 MIT License
 
 Copyright (c) [2022] [John Njagi]
